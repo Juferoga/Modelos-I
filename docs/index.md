@@ -1,5 +1,7 @@
 ## Modelos de programación 1
 
+Modelos de programación es una materia de la carrera de ingenieria de sistemas de la Universidad Distrital Fransisco José de Caldas, en la cual profundizamos en la construcción de programas guiandonos por los patrones de diseño de código.
+
 You can use the [editor on GitHub](https://github.com/Juferoga/Modelos-I/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
